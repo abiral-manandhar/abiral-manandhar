@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abiral</h1>
-<h3 align="center">a full stack developer</h3>
+<h3 align="center">a full stack developer, trying to pivot to AI</h3>
 
 - 📫 How to reach me **abiral21manandhar@gmail.com**
 
